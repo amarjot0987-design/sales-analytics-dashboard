@@ -2,7 +2,7 @@
 # 📊 Sales Analytics Dashboard — Excel + Power BI
 
 ## 📌 Project Overview
-End-to-end sales analytics project analyzing **10,000+ sales records** across products, regions, and customer segments. Built an interactive dashboard tracking revenue, profit, and KPIs using Excel and Power BI.
+End-to-end sales analytics project analyzing a **sample sales dataset (30 orders)** across products, regions, and customer segments. Built an interactive dashboard tracking revenue, profit, and KPIs using Excel and Power BI.
 
 ---
 
@@ -65,4 +65,4 @@ sales-analytics-dashboard/
 ## 👤 Author
 **Amarjot Singh Chawla**
 B.Tech ECE (IoT) — NSUT Delhi
-[LinkedIn](https://linkedin.com/in/amarjotsinghchawla) | [GitHub](https://github.com/amarjot0987-desgin)
+[LinkedIn](https://www.linkedin.com/in/amarjot-singh-chawla-02b168422/) | [GitHub](https://github.com/amarjot0987-design)
